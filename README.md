@@ -37,7 +37,7 @@
 ---
 <div align="center" style="background:#0D0D1F;padding:25px;border-radius:20px;width:fit;">
   <p style="font-size:1.5rem;color:#00ffff;margin-bottom:10px;"><strong>
-  “Crafting code with curiosity, fueled by tea 🍵 </br> and powered by computation 🖥️”
+  “Crafting code with curiosity, fueled by tea 🍵 and powered by computation 🖥️”
   </strong></p>
   <p style="color:#ffff;">– Pranav Harke</p>
 </div>
