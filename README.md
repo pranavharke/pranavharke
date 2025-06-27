@@ -20,11 +20,13 @@
 ![Streamlit](https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=black)
 ![Java](https://img.shields.io/badge/JAVA-4B4B4B?style=for-the-badge&logo=coffee&logoColor=white)
  
+
 ## 📈 GitHub Insights
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavharke&layout=compact&theme=radical" alt="Top Languages" width="215"/>
   <img src="https://streak-stats.demolab.com?user=pranavharke&theme=radical" alt="GitHub Streak" width="300"/>
 </div>
+
 
 ## 🏆 GitHub Trophies
 
