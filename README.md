@@ -24,10 +24,9 @@
 ## 📈 GitHub Insights
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavharke&layout=compact&theme=radical" alt="Top Languages" width="215"/>
-  <img src="https://streak-stats.demolab.com?user=pranavharke&theme=radical" alt="GitHub Streak" width="300"/>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pranavharke&theme=dark&border_radius=6" alt="GitHub Streak" /></a>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 
