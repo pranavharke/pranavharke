@@ -21,11 +21,6 @@
 ![Java](https://img.shields.io/badge/JAVA-4B4B4B?style=for-the-badge&logo=coffee&logoColor=white)
  
 
-## 📈 GitHub Insights
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavharke&layout=compact&theme=radical" alt="Top Languages" width="215"/>
-</div>
-
 ---
 <div align="center" style="background:#0D0D1F;padding:25px;border-radius:20px;width:fit;">
   <p style="font-size:1.5rem;color:#00ffff;margin-bottom:10px;"><strong>
