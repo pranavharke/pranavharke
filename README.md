@@ -1,6 +1,6 @@
 <div align="center">
 
-# Pranav Harke
+# 👋 Hi, I'm Pranav Harke
 
 **Data Analyst · BI Developer · AI/GenAI Enthusiast**
 
