@@ -38,7 +38,7 @@
 
 
 #### 🤝 Let's Connect!
-*I'm always open to discussing data science, analytics, and career opportunities*
+*I'm always open to discussing data science, analytics and career opportunities*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavharke)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harkepranav@gmail.com)
